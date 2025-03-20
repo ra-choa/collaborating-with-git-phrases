@@ -6,3 +6,5 @@ def farewell():
 
 def howdy():
     print("Howdy partner!")
+
+hey wassup hello 
